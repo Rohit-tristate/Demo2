@@ -1,7 +1,7 @@
 export default function app(){
     return(
         <div>
-            <p>git demo</p>
+        <p>This is change done for demo </p>
             
         </div>
     )
